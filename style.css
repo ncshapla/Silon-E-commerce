@@ -1,0 +1,180 @@
+section{
+	margin-bottom: 30px;
+}
+
+.header-top{
+    background: #FEF7F6;
+    padding:10px 0;
+}
+/*banner*/
+
+.banner{
+    background-image: url(./img/bg-1.jpg);
+    background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+.banner-text{
+    text-align: center
+}
+.banner-text h5{
+	color: #565656;
+	font-weight:500; 
+}
+.banner h1{
+	font-size: 50px;
+	font-weight: 500;
+	margin-bottom: 45px;
+}
+
+/* feature products */
+.product-text h5 a{
+	font-size: 15px;
+	text-decoration: none;
+	color: #888;
+}
+.ratting a, .product-text h5 a:hover{
+	color: red;
+}
+.price{
+	font-size: 18px;
+	font-weight: 500;
+}
+
+/* Banner 2 */
+
+.banner2{
+	background:#EAE2D8
+}
+.banner2-text{
+	font-family: Dancing Script, cursive;
+	font-weight: 900;
+	margin-bottom: 35px;
+	font-size: 60px;
+	text-align: center;
+}
+
+/* journal */
+
+.journal-text{
+	border-bottom: 1px solid #dee2e6 !important;
+	padding: 15px 0px;
+}
+.journal-text i, .journal-text a:hover, .journal-comment a:hover{
+	color: red !important;
+}
+.journal-text a{
+	color: #888 !important;
+	font-size: 14px;
+	text-decoration: none;
+}
+.journal-text h4 a{
+	font-size: 20px;
+	color: black !important;
+	font-weight: 900;
+}
+
+.journal-comment a{
+	padding-right: 15px;
+	color: #888;
+	text-decoration: none;
+}
+/* section footer */
+
+.footer{
+	background: rgb(233,226,216);
+
+}
+.footer a{
+	text-decoration: none;
+	color: grey;
+	display: block;
+}
+
+.app{
+	display: flex !important;
+    background: white;
+    border-radius: 8px;
+	text-decoration: none !important;
+    color: black !important;
+}
+
+.app i{
+	font-size: 25px;
+    align-items: center;
+    display: flex;
+    padding: 0px 7px 0px 10px;
+}
+
+.app p{
+	margin: 2px 5px 5px 2px;
+    line-height: 1;
+    font-weight: 700;
+    font-size: 15px;
+}
+.app span{
+	margin-top: 3px;
+	font-size: 12px;
+    font-weight: 500;
+	margin: 0px 0px 5px 0px;
+	line-height: 2;
+}
+.app:hover{
+	background: red;
+}
+.app i:hover{
+	color: white;
+}
+.app span:hover{
+	color: white;
+}
+.app p:hover{
+	color: white;
+}
+
+.app-2{
+	display: flex !important;
+    background: black;
+    border-radius: 8px;
+	text-decoration: none !important;
+    color: white !important;
+}
+.app-2 i{
+	font-size: 25px;
+    align-items: center;
+    display: flex;
+    padding: 0px 7px 0px 10px;
+}
+.app-2 p{
+	margin: 2px 5px 5px 2px;
+    line-height: 1;
+    font-weight: 700;
+    font-size: 15px;
+}
+.app-2 span{
+	margin-top: 3px;
+	font-size: 12px;
+    font-weight: 500;
+	margin: 0px 0px 5px 0px;
+	line-height: 2
+}
+.app-2:hover{
+	background: red;
+}
+.app-2 i:hover{
+	color: black;
+}
+.app-2 span:hover{
+	color: black;
+}
+.app-2 p:hover{
+	color: black;
+}
+
+.social-media a{
+	display: inline;
+    background: white;
+    padding: 5px;
+    margin: 5px 10px 5px;
+    color: black;
+}
