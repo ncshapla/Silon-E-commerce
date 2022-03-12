@@ -1,6 +1,6 @@
 ### Silon e-Commerece
 ---
-**Live Site : [Silon e-Commerece](https://ncshapla.github.io/panda-commerce/)**
+**Live Site : [Silon e-Commerece](https://ncshapla.github.io/Silon-E-commerce/)**
 
 #### Overview:
 This is a static web page for showing few categories of e-commerece product.
